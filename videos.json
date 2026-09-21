@@ -1,0 +1,185 @@
+{
+  "sections": [
+    {
+      "key": "live",
+      "title": "品牌直播间",
+      "subtitle": "博士伦 · 多特贝斯 · 维萃美 —— 直播间视觉实录",
+      "items": [
+        {
+          "name": "博士伦夏季日常直播间_web.mp4",
+          "display": "博士伦夏季日常直播间",
+          "url": "/%E5%8D%9A%E5%A3%AB%E4%BC%A6%E5%A4%8F%E5%AD%A3%E6%97%A5%E5%B8%B8%E7%9B%B4%E6%92%AD%E9%97%B4_web.mp4",
+          "size": 1143826,
+          "duration": null,
+          "poster": "/posters/%E5%8D%9A%E5%A3%AB%E4%BC%A6%E5%A4%8F%E5%AD%A3%E6%97%A5%E5%B8%B8%E7%9B%B4%E6%92%AD%E9%97%B4.jpg"
+        },
+        {
+          "name": "博士伦春季日常直播间_web.mp4",
+          "display": "博士伦春季日常直播间",
+          "url": "/%E5%8D%9A%E5%A3%AB%E4%BC%A6%E6%98%A5%E5%AD%A3%E6%97%A5%E5%B8%B8%E7%9B%B4%E6%92%AD%E9%97%B4_web.mp4",
+          "size": 1151227,
+          "duration": null,
+          "poster": "/posters/%E5%8D%9A%E5%A3%AB%E4%BC%A6%E6%98%A5%E5%AD%A3%E6%97%A5%E5%B8%B8%E7%9B%B4%E6%92%AD%E9%97%B4.jpg"
+        },
+        {
+          "name": "博士伦秋季日常直播间_web.mp4",
+          "display": "博士伦秋季日常直播间",
+          "url": "/%E5%8D%9A%E5%A3%AB%E4%BC%A6%E7%A7%8B%E5%AD%A3%E6%97%A5%E5%B8%B8%E7%9B%B4%E6%92%AD%E9%97%B4_web.mp4",
+          "size": 2167987,
+          "duration": null,
+          "poster": "/posters/%E5%8D%9A%E5%A3%AB%E4%BC%A6%E7%A7%8B%E5%AD%A3%E6%97%A5%E5%B8%B8%E7%9B%B4%E6%92%AD%E9%97%B4.jpg"
+        },
+        {
+          "name": "多特贝斯鱼油专场直播间_web.mp4",
+          "display": "多特贝斯鱼油专场直播间",
+          "url": "/%E5%A4%9A%E7%89%B9%E8%B4%9D%E6%96%AF%E9%B1%BC%E6%B2%B9%E4%B8%93%E5%9C%BA%E7%9B%B4%E6%92%AD%E9%97%B4_web.mp4",
+          "size": 999410,
+          "duration": null,
+          "poster": "/posters/%E5%A4%9A%E7%89%B9%E8%B4%9D%E6%96%AF%E9%B1%BC%E6%B2%B9%E4%B8%93%E5%9C%BA%E7%9B%B4%E6%92%AD%E9%97%B4.jpg"
+        },
+        {
+          "name": "维萃美直播间_web.mp4",
+          "display": "维萃美直播间",
+          "url": "/%E7%BB%B4%E8%90%83%E7%BE%8E%E7%9B%B4%E6%92%AD%E9%97%B4_web.mp4",
+          "size": 4925811,
+          "duration": null,
+          "poster": "/posters/%E7%BB%B4%E8%90%83%E7%BE%8E%E7%9B%B4%E6%92%AD%E9%97%B4.jpg"
+        }
+      ]
+    },
+    {
+      "key": "edit",
+      "title": "视频剪辑展示",
+      "subtitle": "UI 展示 · 创意剪辑 · 混剪",
+      "groups": [
+        {
+          "title": "UI展示视频设计与剪辑",
+          "items": [
+            {
+              "name": "ip展示剪辑2_web.mp4",
+              "display": "ip展示剪辑2",
+              "url": "/视频剪辑/ip%E5%B1%95%E7%A4%BA%E5%89%AA%E8%BE%912_web.mp4",
+              "size": 2863982,
+              "duration": null,
+              "poster": "/posters/ip%E5%B1%95%E7%A4%BA%E5%89%AA%E8%BE%912.jpg",
+              "subcat": "UI展示视频设计与剪辑"
+            },
+            {
+              "name": "ui展示剪辑1_web.mp4",
+              "display": "ui展示剪辑1",
+              "url": "/视频剪辑/ui%E5%B1%95%E7%A4%BA%E5%89%AA%E8%BE%911_web.mp4",
+              "size": 28391915,
+              "duration": null,
+              "poster": "/posters/ui%E5%B1%95%E7%A4%BA%E5%89%AA%E8%BE%911.jpg",
+              "subcat": "UI展示视频设计与剪辑"
+            },
+            {
+              "name": "ui展示剪辑2_web.mp4",
+              "display": "ui展示剪辑2",
+              "url": "/视频剪辑/ui%E5%B1%95%E7%A4%BA%E5%89%AA%E8%BE%912_web.mp4",
+              "size": 5604311,
+              "duration": null,
+              "poster": "/posters/ui%E5%B1%95%E7%A4%BA%E5%89%AA%E8%BE%912.jpg",
+              "subcat": "UI展示视频设计与剪辑"
+            },
+            {
+              "name": "ui展示剪辑3_web.mp4",
+              "display": "ui展示剪辑3",
+              "url": "/视频剪辑/ui%E5%B1%95%E7%A4%BA%E5%89%AA%E8%BE%913_web.mp4",
+              "size": 12858609,
+              "duration": null,
+              "poster": "/posters/ui%E5%B1%95%E7%A4%BA%E5%89%AA%E8%BE%913.jpg",
+              "subcat": "UI展示视频设计与剪辑"
+            }
+          ]
+        },
+        {
+          "title": "创意视频剪辑",
+          "items": [
+            {
+              "name": "创意视频1_web.mp4",
+              "display": "创意视频1",
+              "url": "/视频剪辑/%E5%88%9B%E6%84%8F%E8%A7%86%E9%A2%911_web.mp4",
+              "size": 5092552,
+              "duration": null,
+              "poster": "/posters/%E5%88%9B%E6%84%8F%E8%A7%86%E9%A2%911.jpg",
+              "subcat": "创意视频剪辑"
+            },
+            {
+              "name": "创意视频2_web.mp4",
+              "display": "创意视频2",
+              "url": "/视频剪辑/%E5%88%9B%E6%84%8F%E8%A7%86%E9%A2%912_web.mp4",
+              "size": 20131867,
+              "duration": null,
+              "poster": "/posters/%E5%88%9B%E6%84%8F%E8%A7%86%E9%A2%912.jpg",
+              "subcat": "创意视频剪辑"
+            },
+            {
+              "name": "创意视频3_web.mp4",
+              "display": "创意视频3",
+              "url": "/视频剪辑/%E5%88%9B%E6%84%8F%E8%A7%86%E9%A2%913_web.mp4",
+              "size": 5719677,
+              "duration": null,
+              "poster": "/posters/%E5%88%9B%E6%84%8F%E8%A7%86%E9%A2%913.jpg",
+              "subcat": "创意视频剪辑"
+            }
+          ]
+        },
+        {
+          "title": "混剪",
+          "items": [
+            {
+              "name": "混剪1_web.mp4",
+              "display": "混剪1",
+              "url": "/视频剪辑/%E6%B7%B7%E5%89%AA1_web.mp4",
+              "size": 4050711,
+              "duration": null,
+              "poster": "/posters/%E6%B7%B7%E5%89%AA1.jpg",
+              "subcat": "混剪"
+            },
+            {
+              "name": "混剪2_web.mp4",
+              "display": "混剪2",
+              "url": "/视频剪辑/%E6%B7%B7%E5%89%AA2_web.mp4",
+              "size": 15445902,
+              "duration": null,
+              "poster": "/posters/%E6%B7%B7%E5%89%AA2.jpg",
+              "subcat": "混剪"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "title": "AI视频展示",
+      "subtitle": "AI 生成视频作品",
+      "items": [
+        {
+          "name": "场景走秀视觉运镜_web.mp4",
+          "display": "场景走秀视觉运镜",
+          "url": "/a视频展示/%E5%9C%BA%E6%99%AF%E8%B5%B0%E7%A7%80%E8%A7%86%E8%A7%89%E8%BF%90%E9%95%9C_web.mp4",
+          "size": 2151770,
+          "duration": null,
+          "poster": "/posters/%E5%9C%BA%E6%99%AF%E8%B5%B0%E7%A7%80%E8%A7%86%E8%A7%89%E8%BF%90%E9%95%9C.jpg"
+        },
+        {
+          "name": "箱包创意展示_web.mp4",
+          "display": "箱包创意展示",
+          "url": "/a视频展示/%E7%AE%B1%E5%8C%85%E5%88%9B%E6%84%8F%E5%B1%95%E7%A4%BA_web.mp4",
+          "size": 2256257,
+          "duration": null,
+          "poster": "/posters/%E7%AE%B1%E5%8C%85%E5%88%9B%E6%84%8F%E5%B1%95%E7%A4%BA.jpg"
+        },
+        {
+          "name": "美妆产品可视化广告_web.mp4",
+          "display": "美妆产品可视化广告",
+          "url": "/a视频展示/%E7%BE%8E%E5%A6%86%E4%BA%A7%E5%93%81%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B9%BF%E5%91%8A_web.mp4",
+          "size": 2672153,
+          "duration": null,
+          "poster": "/posters/%E7%BE%8E%E5%A6%86%E4%BA%A7%E5%93%81%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B9%BF%E5%91%8A.jpg"
+        }
+      ]
+    }
+  ]
+}
